@@ -4,3 +4,4 @@ streamlit
 matplotlib
 Pillow
 numpy
+h5py
